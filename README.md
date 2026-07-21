@@ -60,7 +60,7 @@ trading_bot/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/akashp2002/binance-futures-trading-bot 
 cd trading_bot
 ```
 
