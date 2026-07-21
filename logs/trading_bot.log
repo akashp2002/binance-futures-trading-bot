@@ -1,0 +1,7 @@
+2026-07-21 14:38:54,046 - INFO - LIMIT order placed successfully. Order ID: 23125972461
+2026-07-21 14:39:19,624 - ERROR - Validation Error: Quantity must be greater than 0
+2026-07-21 14:44:42,212 - INFO - MARKET order placed successfully. Order ID: 23126790817
+2026-07-21 14:45:31,727 - ERROR - Validation Error: Quantity must be greater than 0
+2026-07-21 14:46:11,232 - INFO - LIMIT order placed successfully. Order ID: 23127022190
+2026-07-21 14:47:56,287 - INFO - LIMIT order placed successfully. Order ID: 23127279625
+2026-07-21 14:49:40,653 - INFO - MARKET order placed successfully. Order ID: 23127536421
